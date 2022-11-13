@@ -1,0 +1,9 @@
+lk.modernPOS.connection
+lk.modernPOS.controller
+lk.modernPOS.customDTO
+lk.modernPOS.dao
+lk.modernPOS.dao.custom
+lk.modernPOS.dao.custom.impl
+lk.modernPOS.dto
+lk.modernPOS.startApplication
+lk.modernPOS.view
